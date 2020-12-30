@@ -1,0 +1,10 @@
+{
+    "name": "Popup Color Input Demo",
+    "version":"0",
+    "description": "",
+    "page_action": {
+        "default_popup": "popup.html",
+        "show_matches": ["<all_urls>"]
+    },
+    "manifest_version": 2
+}
